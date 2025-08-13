@@ -1,0 +1,10 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "gh-pages -d TO-DO-APP"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
